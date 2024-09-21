@@ -3,3 +3,4 @@ nginx
 xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 dustynv/text-generation-webui:main-r36.2.0
+nvidia/cuda:12.0.0-cudnn8-devel-ubuntu22.04
